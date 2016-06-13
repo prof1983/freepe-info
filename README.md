@@ -1,2 +1,5 @@
-# freepe-promo
-Crowd-platform with custom tokens and referral system
+# FreePe Infosphere
+
+## Desc
+
+Мнформационный портал знаний, технологий, проектов, рецептов. Можно предлагать идеи, анализировать и планировать реализацию.
